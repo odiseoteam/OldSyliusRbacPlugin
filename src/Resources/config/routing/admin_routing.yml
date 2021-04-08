@@ -3,7 +3,7 @@ sylius_rbac_administration_role:
         alias: sylius_rbac.administration_role
         only: ['index']
         section: admin
-        templates: SyliusAdminBundle:Crud
+        templates: '@SyliusAdmin/Crud'
         grid: sylius_rbac_administration_role
         redirect: update
     type: sylius.resource
