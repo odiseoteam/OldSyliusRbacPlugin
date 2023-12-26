@@ -12,7 +12,7 @@
         "php": "^8.0",
         "sylius/sylius": "^1.12",
         "sylius/mailer-bundle":  "^1.8 || ^2.0@beta",
-        "symfony/webpack-encore-bundle": "^1.15",
+        "symfony/webpack-encore-bundle": "^1.15 || ^2.1",
         "symfony/messenger": "^4.4 || ^5.2 || ^6.0"
     },
     "require-dev": {
